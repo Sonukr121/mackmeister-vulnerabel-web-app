@@ -63,7 +63,7 @@ npm run dev
 
 5. Open your browser and visit
 ```bash
-http://localhost:4173\`
+http://localhost:4173
 ```
 ## 🎯 Challenge Categories
 
