@@ -1,3 +1,4 @@
+
 # Vulnerable Security Training Application
 
 A comprehensive educational platform designed to help developers and security professionals learn about common web security vulnerabilities in a safe, controlled environment. This application simulates real-world security flaws in a setting.
@@ -65,6 +66,7 @@ npm run dev
 ```bash
 http://localhost:4173
 ```
+
 ## 🎯 Challenge Categories
 
 1. **Injection Vulnerabilities**
@@ -132,4 +134,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## ⚠️ Disclaimer
 
 This application contains intentional security vulnerabilities for educational purposes. The authors are not responsible for any misuse or damage caused by this application. Use it at your own risk and only in a controlled environment.
-#
