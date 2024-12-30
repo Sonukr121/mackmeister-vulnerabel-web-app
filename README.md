@@ -55,7 +55,7 @@ npm install
 npm run dev
 \`\`\`
 
-5. Open your browser and visit \`http://localhost:5173\`
+5. Open your browser and visit \`http://localhost:4173\`
 
 ## 🎯 Challenge Categories
 
