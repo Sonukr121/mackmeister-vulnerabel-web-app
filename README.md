@@ -46,23 +46,25 @@ npm -v
 git clone https://github.com/Sonukr121/mackmeister-vulnerabel-web-app.git
 ```
 
-3. Navigate to the project directory:
+2. Navigate to the project directory:
 ```bash
 cd project
 ```
 
-4. Install dependencies:
+3. Install dependencies:
 ```bash
 npm install
 ```
 
-6. Start the development server:
+4. Start the development server:
 ```bash
 npm run dev
 ```
 
-8. Open your browser and visit \`http://localhost:4173\`
-
+5. Open your browser and visit
+```bash
+http://localhost:4173\`
+```
 ## 🎯 Challenge Categories
 
 1. **Injection Vulnerabilities**
