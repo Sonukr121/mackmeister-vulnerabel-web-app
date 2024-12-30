@@ -1,6 +1,6 @@
-# Vulnerable E-commerce Security Training Application
+# Vulnerable Security Training Application
 
-A comprehensive educational platform designed to help developers and security professionals learn about common web security vulnerabilities in a safe, controlled environment. This application simulates real-world security flaws in an e-commerce setting.
+A comprehensive educational platform designed to help developers and security professionals learn about common web security vulnerabilities in a safe, controlled environment. This application simulates real-world security flaws in a setting.
 
 ![Application Screenshot](https://images.unsplash.com/photo-1555949963-aa79dcee981c?auto=format&fit=crop&q=80&w=1200)
 
@@ -11,7 +11,7 @@ This application is intentionally vulnerable and designed for educational purpos
 ## 🚀 Features
 
 - 15 different security challenges covering various vulnerability types
-- Real-world e-commerce functionality
+- Real-world functionality
 - Progressive difficulty levels
 - Interactive feedback system
 - Progress tracking
