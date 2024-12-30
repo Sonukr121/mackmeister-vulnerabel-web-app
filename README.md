@@ -2,7 +2,7 @@
 
 A comprehensive educational platform designed to help developers and security professionals learn about common web security vulnerabilities in a safe, controlled environment. This application simulates real-world security flaws in a setting.
 
-![Application Screenshot](https://images.unsplash.com/photo-1555949963-aa79dcee981c?auto=format&fit=crop&q=80&w=1200)
+![Application Screenshot](https://images.unsplash.com/photo-1555949963-aa79dcee981c?auto=format&fit=crop&q=40&w=1200)
 
 ## ⚠️ Security Warning
 
