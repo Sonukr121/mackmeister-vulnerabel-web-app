@@ -30,7 +30,7 @@ This application is intentionally vulnerable and designed for educational purpos
 
 - Node.js (v18 or higher)
 ```bash
-  node -v
+node -v
 ```
 - npm (v9 or higher)
 ```bash
