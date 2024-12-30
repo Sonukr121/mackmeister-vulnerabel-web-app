@@ -29,33 +29,39 @@ This application is intentionally vulnerable and designed for educational purpos
 ## 🛠️ Prerequisites
 
 - Node.js (v18 or higher)
+```bash
+  node -v
+```
 - npm (v9 or higher)
+```bash
+npm -v
+```
 - Modern web browser
 - Basic understanding of web security concepts
 
 ## 🔧 Installation
 
 1. Clone the repository:
-\`\`\`bash
-git clone https://github.com/yourusername/vulnerable-ecommerce.git
-\`\`\`
+```bash
+git clone https://github.com/Sonukr121/mackmeister-vulnerabel-web-app.git
+```
 
-2. Navigate to the project directory:
-\`\`\`bash
-cd vulnerable-ecommerce
-\`\`\`
+3. Navigate to the project directory:
+```bash
+cd project
+```
 
-3. Install dependencies:
-\`\`\`bash
+4. Install dependencies:
+```bash
 npm install
-\`\`\`
+```
 
-4. Start the development server:
-\`\`\`bash
+6. Start the development server:
+```bash
 npm run dev
-\`\`\`
+```
 
-5. Open your browser and visit \`http://localhost:4173\`
+8. Open your browser and visit \`http://localhost:4173\`
 
 ## 🎯 Challenge Categories
 
@@ -106,7 +112,7 @@ npm run dev
 
 ## 📚 Project Structure
 
-\`\`\`
+```
 src/
 ├── components/     # Reusable UI components
 ├── context/       # React context providers
@@ -114,15 +120,8 @@ src/
 ├── pages/         # Application pages
 ├── types/         # TypeScript type definitions
 └── utils/         # Utility functions
-\`\`\`
+```
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create your feature branch (\`git checkout -b feature/AmazingFeature\`)
-3. Commit your changes (\`git commit -m 'Add some AmazingFeature'\`)
-4. Push to the branch (\`git push origin feature/AmazingFeature\`)
-5. Open a Pull Request
 
 ## 📝 License
 
